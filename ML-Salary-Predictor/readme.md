@@ -36,7 +36,7 @@ You can install these libraries using the following command:
 ```bash
 pip install numpy pandas matplotlib scikit-learn
 ```
-
+or utilize tools like Google Colab or Jupyter Notebook
 
 
 The script will:
@@ -51,7 +51,7 @@ The script will:
 1. **Data Loading**: 
    The dataset is loaded using `pandas`:
    ```python
-   dataset = pd.read_csv('Salary_Data.csv')
+   df = pd.read_csv(r'/content/Salary_Data.csv')
    ```
 
 2. **Data Splitting**:
@@ -91,4 +91,3 @@ The script will:
 This project is open-source and free to use for educational purposes.
 ```
 
-This `README.md` provides clear instructions on how to run the script, what to expect, and the purpose of the files in the project.
