@@ -4,7 +4,7 @@ This project implements a simple linear regression model to predict an employee'
 
 ## Files
 
-- `simple_linear_regression.py`: Python script that trains the linear regression model and plots the results.
+- `ML-Salary-Predictor.ipynb`: Python script that trains the linear regression model and plots the results.
 - `Salary_Data.csv`: Dataset containing employee experience and corresponding salary data.
 
 ## Dataset
