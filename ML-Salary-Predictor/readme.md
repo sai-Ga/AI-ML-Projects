@@ -1,4 +1,4 @@
-Here’s a `README.md` file for the Python script that uses linear regression to predict salary based on experience from the `Salary_Data.csv` dataset.
+
 
 ```markdown
 # Salary Prediction using Linear Regression
