@@ -37,14 +37,7 @@ You can install these libraries using the following command:
 pip install numpy pandas matplotlib scikit-learn
 ```
 
-## How to Run
 
-1. Ensure the dataset `Salary_Data.csv` is in the same directory as the Python script.
-2. Run the Python script:
-
-```bash
-python simple_linear_regression.py
-```
 
 The script will:
 - Load the dataset.
