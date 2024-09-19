@@ -1,6 +1,3 @@
-
-
-```markdown
 # Salary Prediction using Linear Regression
 
 This project implements a simple linear regression model to predict an employee's salary based on their years of experience. It utilizes the `Salary_Data.csv` dataset and the `scikit-learn` library for training and testing the model.
