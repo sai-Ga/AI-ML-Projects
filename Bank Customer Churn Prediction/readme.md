@@ -63,7 +63,8 @@ To run the project, the following dependencies are required:
 
 4. Open the Power BI report (`Customer Churn Analysis.pbix`) to explore the visual analysis.
 
-   ![Power BI report](https://ibb.co/hCGSY9D)
+   ![image](https://github.com/user-attachments/assets/d0a8b90e-9955-40f9-a49f-32c52e6c9166)
+
 
 ## Results
 
